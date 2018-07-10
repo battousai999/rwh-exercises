@@ -1,3 +1,4 @@
 *.hi
 *.o
 *.exe
+ch-04/hello-out*.txt
